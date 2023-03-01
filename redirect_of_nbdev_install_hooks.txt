@@ -1,0 +1,11 @@
+Traceback (most recent call last):
+  File "C:\Users\uts19\.pyenv\pyenv-win\versions\3.10.6\lib\runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "C:\Users\uts19\.pyenv\pyenv-win\versions\3.10.6\lib\runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "C:\Users\uts19\repository\phd\nbdev-env\.venv\Scripts\nbdev_install_hooks.exe\__main__.py", line 4, in <module>
+  File "C:\Users\uts19\repository\phd\nbdev-env\.venv\lib\site-packages\nbdev\__init__.py", line 3, in <module>
+    from .doclinks import nbdev_export
+  File "C:\Users\uts19\repository\phd\nbdev-env\.venv\lib\site-packages\nbdev\doclinks.py", line 17, in <module>
+    import pkg_resources,importlib
+ModuleNotFoundError: No module named 'pkg_resources'

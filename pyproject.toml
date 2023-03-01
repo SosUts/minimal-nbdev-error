@@ -1,0 +1,15 @@
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "SosUts", email = "uts.199.ubosou@gmail.com"},
+]
+dependencies = [
+    "nbdev>=2.3.12",
+]
+requires-python = ">=3.10"
+license = {text = "MIT"}
+
+
+[tool.pdm]
